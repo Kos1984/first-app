@@ -1,0 +1,9 @@
+.DS_Store
+	.gradle/.DS_Store
+	.idea/vcs.xml
+	build/.DS_Store
+	build/kotlin/.DS_Store
+	build/kotlin/compileKotlin/.DS_Store
+	src/.DS_Store
+	src/main/.DS_Store
+	src/test/
